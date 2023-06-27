@@ -1,0 +1,5 @@
+Request install...
+Searching for microweber-templates/template-cryptocurrency for version 6.1
+Applying post update actions
+Applying post update actions
+Applying post update actions

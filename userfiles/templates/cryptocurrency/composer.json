@@ -1,0 +1,38 @@
+{
+  "name": "microweber-templates/template-cryptocurrency",
+  "type": "microweber-template",
+  "description": "Crypto",
+  "keywords": [
+    "microweber",
+    "crypto",
+    "forex",
+    "trading",
+    "exchange",
+    "business",
+    "technology"
+  ],
+  "homepage": "https://microweber.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MW Team",
+      "email": "contacts@microweber.com"
+    }
+  ],
+  "support": {
+    "email": "support@microweber.com",
+    "forum": "https://microweber.org/community",
+    "docs": "http://docs.microweber.org"
+  },
+  "extra": {
+    "categories": [
+      "services",
+      "business",
+      "education",
+      "blog"
+    ],
+
+    "preview_url": "https://templates.microweber.com/cryptocurrency/"
+  },
+  "target-dir": "cryptocurrency"
+}

@@ -1,0 +1,15 @@
+:root {
+  --primaryColor: #f2a900;
+  --links: #000000;
+  --background: #ffffff;
+  --secodnary: #6c757d;
+  --textDark: #212529;
+  --textLight: #212529;
+  --section: #ffffff;
+  --bodyFontSize: 16px;
+  --fontFamily: Milliard, sans-serif;
+  --headerBg: rgba(255, 255, 255, 0);
+  --footerBg: #ffffff;
+  --menuColor: #f2a900;
+  --btnText: #ffffff;
+}
